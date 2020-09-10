@@ -3,7 +3,7 @@ session_start();
 $topic=$_REQUEST['topic'];
 $servername = "localhost";
 $username = "root";
-$password = "dhruv007";
+$password = "";
 $dbname = "e-learning";
 
 // Create connection
