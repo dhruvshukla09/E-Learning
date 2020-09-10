@@ -4,7 +4,7 @@ session_start();
  if(!isset($_SESSION["teacherid"])) { header("Location: index.php"); }
 $servername = "localhost";
 $username = "root";
-$password = "dhruv007";
+$password = "";
 $dbname = "e-learning";
 
 // Create connection
